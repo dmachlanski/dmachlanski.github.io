@@ -44,4 +44,4 @@ plugins:
  - jekyll-seo-tag
 
 disqus:
-  shortname: dmachlanski-blog.disqus.com
+  shortname: dmachlanski-blog
