@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Damian Machlanski, Launches Site"
+title: "Initial post"
+excerpt: "Just a few words to get started"
 date: 2018-07-29
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Finally. I've found a very straightforward way to publish my posts from time to time - GitHub Pages + Jekyll. And I must say it was much easier than I expected.
