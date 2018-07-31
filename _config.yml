@@ -1,4 +1,4 @@
-title: Damian Machlanski's blog
+title: Damian Machlanski blog
 # author: Damian Machlanski
 email: damian.machlanski@gmail.com
 description: Playing around with AI
@@ -45,3 +45,5 @@ plugins:
 
 disqus:
   shortname: dmachlanski-blog
+
+google_analytics: UA-123160461-1
