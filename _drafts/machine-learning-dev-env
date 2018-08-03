@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Python for Machine Learning - setup your tools"
+excerpt: "How to prepare your development environment for Python and Machine Learning quickly"
+---
+
+Short introduction, explain what I'm going to present.
+
+Install Anaconda and why it's better than a pure python installation (pip).
+
+Choosing your editor. My choice - VS Code. Alternative - VS with Python tools (check it out).
+
+You're ready to write code!
+
+Use the following command-line tool get and install additional packages.
+
+Use the following website (anaconda.org) to search for available and safe packages.
+
+Good luck!
