@@ -23,7 +23,7 @@ The following (non-exhaustive) list comprises materials that I personally find u
   - [Khan Academy](https://www.khanacademy.org/math)
 - Blogs
   - [Andrej Karpathy](http://karpathy.github.io/)
-  - Fast.ai
+  - [Fast.ai](http://www.fast.ai/)
   - [Andrew Trask](http://iamtrask.github.io/)
 - Podcasts
   - [This Week in Machine Learning & AI](https://twimlai.com/)
