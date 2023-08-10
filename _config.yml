@@ -1,55 +1,15 @@
-title: Damian Machlanski blog
-# author: Damian Machlanski
-email: damian.machlanski@gmail.com
-description: Playing around with AI
+# Example Site settings
 
-# social links
-twitter_username: dmachlanski
-github_username:  dmachlanski
-# rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-linkedin_username: damianmachlanski
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
+#google_analytics: UA-NNNNNNNN-N
 
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
-
-
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
 #header_pages:
-# - about.md
+#  - index.md
+#  - about.md
 
-# Build settings
-#theme: minima
-remote_theme: b2a3e8/jekyll-theme-console
+#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-style: dark
-
-footer: 'test footer'
+#style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-sitemap
-
-disqus:
-  shortname: dmachlanski-blog
-
-google_analytics: UA-123160461-1
+  - jekyll-seo-tag
