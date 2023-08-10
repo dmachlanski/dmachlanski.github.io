@@ -37,7 +37,12 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: b2a3e8/jekyll-theme-console
+
+style: dark
+
+footer: 'test footer'
 
 plugins:
  - jekyll-feed
