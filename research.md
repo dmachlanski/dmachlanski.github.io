@@ -5,14 +5,16 @@ permalink: /research/
 ---
 
 # Interests
-Causality:
+My primary research interests are Causality and Machine Learning (ML), with an emphasis on using modern ML methods to solve causal problems. More specific areas of interest are as follows.
+
+## Causality
 - Treatment Effect Estimation
 - Structure Learning / Causal Discovery
 - Observational Data
 - Panel Data
 - Treatment Recommendation / Policy Learning
 
-Machine Learning:
+## Machine Learning
 - Covariate Shift
 - Hyperparameter Tuning
 - Model Selection
