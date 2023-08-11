@@ -6,15 +6,15 @@ permalink: /research/
 
 # Interests
 - Causality
-  - Treatment Effect Estimation
-  - Structure Learning / Causal Discovery
-  - Observational Data
-  - Panel Data
-  - Treatment Recommendation / Policy Learning
+    - Treatment Effect Estimation
+    - Structure Learning / Causal Discovery
+    - Observational Data
+    - Panel Data
+    - Treatment Recommendation / Policy Learning
 - Machine Learning
-  - Covariate Shift
-  - Hyperparameter Tuning
-  - Model Selection
+    - Covariate Shift
+    - Hyperparameter Tuning
+    - Model Selection
 
 # Publications
 - [2] D. Machlanski, S. Samothrakis, and P. Clarke, ‘Hyperparameter Tuning and Model Evaluation in Causal Effect Estimation’. arXiv, Mar. 02, 2023. doi: 10.48550/arXiv.2303.01412.
