@@ -3,9 +3,9 @@ title: 'dmachlanski'
 header_pages:
   - index.md
   - research.md
-  #- teaching.md
+  - teaching.md
   - posts.md
-  #- cv.md
+  - cv.md
 
 footer: 'follow me on <a href="https://twitter.com/dmachlanski">twitter</a>'
 
