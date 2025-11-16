@@ -15,7 +15,7 @@ Education
   * Supervisors: Dr Spyridon Samothrakis and Prof. Paul Clarke
 
 * MSc in AI, University of Essex, 2020
-  * Supervisors: Dr Ana Matran-Fernandex and Prof. Luca Citi
+  * Supervisors: Dr Ana Matran-Fernandez and Prof. Luca Citi
 
 * BEng in Computer Science, West Pomeranian University of Technology, 2014
   * Supervisor: Prof. Krzysztof Malecki
@@ -56,18 +56,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PhD co-supervisor
+* Reviewer for: Nature Communications, AISTATS, ICLR, PLOS One
