@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr Damian Machlanski"
+title                    : "Damian Machlanski"
 title_separator          : "-"
 name                     : &name "Damian Machlanski"
 description              : &description "Damian Machlanski's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "dmachlanski/dmachlanski.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr Damian Machlanski"
+  name             : "Damian Machlanski"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate in Causal AI"
   location         : "Edinburgh, UK"
   employer         : "The University of Edinburgh"
   uri              : # URL
-  email            : "d.machlanski@ed.ac.uk"
+  email            : # email
 
   # Academic websites
   academia         : # URL
@@ -82,7 +82,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Working Papers'
   manuscripts:
     title: 'Journal Articles'    
   conferences:

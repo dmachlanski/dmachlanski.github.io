@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, University of Essex, 2024
+  * Supervisors: Dr Spyridon Samothrakis and Prof. Paul Clarke
+
+* MSc in AI, University of Essex, 2020
+  * Supervisors: Dr Ana Matran-Fernandex and Prof. Luca Citi
+
+* BEng in Computer Science, West Pomeranian University of Technology, 2014
+  * Supervisor: Prof. Krzysztof Malecki
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* CHAI Postdoctoral Schoral, 2024-
+  * Causality in Helthcare AI Hub (CHAI), UK
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Associate in Causal AI, 2024-
+  * School of Engineering, The University of Edinburgh
+  * Supervisor: Prof. Sotirios Tsaftaris
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Research Officer, 2023-2024
+  * Institute for Social and Economic Research, University of Essex
+  * Supervisors: Dr Spyridon Samothrakis and Prof. Paul Clarke
+
+* Software Developer, 2014-2020
+  * Oxford Computer Consultants (now System C)
+
+* Junior Software Developer, 2013-2014
+  * Autocomp Management
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Causality
+  * Causal discovery
+  * Causal effect estimation
+  * Observational data
+* Machine learning
+  * Domain/out-of-distribution generalisation
+  * Hyperparameter/model selection
+  * Benchmarking
 
 Publications
 ======
