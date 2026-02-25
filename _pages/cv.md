@@ -61,3 +61,4 @@ Service and leadership
 ======
 * PhD co-supervisor
 * Reviewer for: Nature Communications, AISTATS, ICLR, PLOS One
+* Reviewing Editor with Springer Nature
