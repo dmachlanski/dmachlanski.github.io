@@ -1,0 +1,13 @@
+{%- assign me_bold = "<strong>" | append: site.me | append: "</strong>" -%}
+<li class="pub">
+  <span class="pub-title">{% if include.pub.url %}<a href="{{ include.pub.url }}">{{ include.pub.title }}</a>{% else %}{{ include.pub.title }}{% endif %}</span>
+  <span class="pub-authors">{{ include.pub.authors | replace: site.me, me_bold }}</span>
+  <span class="pub-venue"><em>{{ include.pub.venue }}</em>{% if include.pub.details %}, {{ include.pub.details }}{% endif %}, {{ include.pub.year }}.</span>
+  {%- if include.pub.links %}
+  <span class="pub-links">
+    {%- for link in include.pub.links %}
+    <a href="{{ link[1] }}">{{ link[0] }}</a>
+    {%- endfor %}
+  </span>
+  {%- endif %}
+</li>
