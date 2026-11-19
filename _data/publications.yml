@@ -1,0 +1,64 @@
+# Publications, newest first. Each entry is listed on /publications/ and /cv/.
+#
+#   title:   Paper title
+#   authors: Author list as a single string (your name is highlighted automatically)
+#   venue:   Journal or conference (shown in italics)
+#   details: Optional volume/pages/status, shown after the venue
+#   year:    Year (also used for grouping)
+#   url:     Main link for the title
+#   links:   Optional extra links, shown as small labels (label: url)
+
+- title: "The Challenges of Hyperparameter Tuning for Accurate Causal Effect Estimation"
+  authors: "Damian Machlanski, Spyridon Samothrakis, Paul Clarke"
+  venue: "Machine Learning"
+  details: "115(11):249"
+  year: 2026
+  url: "https://doi.org/10.1007/s10994-026-07140-9"
+
+- title: "Explainable AI to Guide the Design of Interpretable Prediction Models From High-Dimensional Data, Applied to Falls and Related Injuries in Adults Aged 50 Years or Older: Algorithm Development and Validation"
+  authors: "Junyu Yan, Damian Machlanski, Kurt Butler, Panagiotis Dimitrakopoulos, Ewen M. Harrison, Bruce Guthrie, Sotirios A. Tsaftaris"
+  venue: "Journal of Medical Internet Research"
+  details: "28:e105364"
+  year: 2026
+  url: "https://doi.org/10.2196/105364"
+
+- title: "One Thing Leads to Another: The Essentials of Time Series Causal Discovery"
+  authors: "Kurt Butler, Damian Machlanski, Michael P. J. Camilleri, Zhihua Liu, Panagiotis Dimitrakopoulos, Feng Chen, Ricardo Silva, Sotirios A. Tsaftaris"
+  venue: "IEEE Signal Processing Magazine"
+  details: "forthcoming"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.13430"
+
+- title: "Antipsychotic-Induced Weight Gain in Psychosis: Causal Mediation Analysis and Feasibility Study of Causal Actionable Prediction Model Development Using Counterfactuals to Target Obesity"
+  authors: "Samuel P. Leighton, I Lam Leong, Damian Machlanski, Benjamin I. Perry, Sotirios A. Tsaftaris, Fani Deligianni, Stephen M. Lawrie, Rajeev Krishnadas"
+  venue: "The British Journal of Psychiatry"
+  year: 2026
+  url: "https://doi.org/10.1192/bjp.2026.10561"
+
+- title: "Causal Ordering for Structure Learning from Time Series"
+  authors: "Pedro Sanchez, Damian Machlanski, Steven McDonagh, Sotirios A. Tsaftaris"
+  venue: "Transactions on Machine Learning Research"
+  year: 2025
+  url: "https://openreview.net/forum?id=hWuTzqggSd"
+  links:
+    code: "https://github.com/CHAI-UK/DOTS"
+
+- title: "Rethinking Chronological Causal Discovery with Signal Processing"
+  authors: "Kurt Butler, Damian Machlanski, Panagiotis Dimitrakopoulos, Sotirios A. Tsaftaris"
+  venue: "59th Asilomar Conference on Signals, Systems, and Computers"
+  year: 2025
+  url: "https://arxiv.org/abs/2602.19903"
+
+- title: "Robustness of Algorithms for Causal Structure Learning to Hyperparameter Choice"
+  authors: "Damian Machlanski, Spyridon Samothrakis, Paul Clarke"
+  venue: "Conference on Causal Learning and Reasoning (CLeaR)"
+  details: "PMLR 236:703–739"
+  year: 2024
+  url: "https://proceedings.mlr.press/v236/machlanski24a.html"
+
+- title: "Undersmoothing Causal Estimators With Generative Trees"
+  authors: "Damian Machlanski, Spyridon Samothrakis, Paul Clarke"
+  venue: "IEEE Access"
+  details: "12:38562–38574"
+  year: 2024
+  url: "https://ieeexplore.ieee.org/abstract/document/10466753"
